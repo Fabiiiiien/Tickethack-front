@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/backend-v1-main-2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projet Ticket Hack",
+		"liveServer.settings.port": 5501
+	}
+}
